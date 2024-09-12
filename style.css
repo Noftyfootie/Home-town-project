@@ -1,0 +1,35 @@
+body{
+   
+    
+
+}
+
+.body_container{
+    background-image: url("landingpage.jpg");
+    background-size: cover;
+    background-position: center ;
+    height: 50vh;
+    text-align: center;
+    
+    color: white;
+    
+    
+    
+}
+.bodcont{
+    
+
+}
+
+.image_down{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 15px;
+    padding: 20px;
+}
+.image_down img{
+    width: 12vw;
+    border-radius: 50%;
+    margin: 10px 4px ;
+}
